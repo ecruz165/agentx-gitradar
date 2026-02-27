@@ -28,6 +28,7 @@ node_modules/
 .DS_Store
 
 # Tool-specific local directories
+CLAUDE.md
 .claude/
 .taskmaster/
 .screeenshots/
