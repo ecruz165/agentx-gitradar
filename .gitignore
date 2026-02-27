@@ -29,6 +29,7 @@ node_modules/
 
 # Tool-specific local directories
 CLAUDE.md
+.mcp.json
 .claude/
 .taskmaster/
 .screeenshots/
